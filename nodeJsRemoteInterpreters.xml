@@ -1,0 +1,5 @@
+<application>
+  <component name="NodeJSRemoteInterpreters">
+    <interpreter node-remote-interpreter="sftp://pi@192.168.0.19:22/home/pi/.nvm/versions/node/v12.18.2/bin/node" WEB_SERVER_CONFIG_ID="70249d78-329f-45b5-b260-1425266f2131" WEB_SERVER_CONFIG_NAME="rasberry" WEB_SERVER_CREDENTIALS_ID="sftp://pi@192.168.0.19:22" INTERPRETER_PATH="/home/pi/.nvm/versions/node/v12.18.2/bin/node" HELPERS_PATH="/home/pi/.webstorm_nodejs_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" VERSION="12.18.2" />
+  </component>
+</application>
