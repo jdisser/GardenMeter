@@ -1,0 +1,14 @@
+{
+  "name": "raspiremote",
+  "version": "1.0.0",
+  "description": "Rasberry Pi test code",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jdisser",
+  "license": "ISC",
+  "dependencies": {
+    "serialport": "^9.0.0"
+  }
+}
